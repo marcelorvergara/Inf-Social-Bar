@@ -1,0 +1,36 @@
+0000000000000000000000000000000000000000 be1397f0beb55846150d3e8b24a3320862d14f3f Marcelo <marcelorv@gmail.com> 1585743374 -0300	commit (initial): primeiro commit com Chat e autenticação firebase
+be1397f0beb55846150d3e8b24a3320862d14f3f ce5bd998e6cdbac953dfa8368be81f06b98a3f1d Marcelo <marcelorv@gmail.com> 1585757907 -0300	commit: criação de salas de chat
+ce5bd998e6cdbac953dfa8368be81f06b98a3f1d 85f7ac38dd9d80ea0135623a8c48a2f077c975c6 Marcelo <marcelorv@gmail.com> 1585776079 -0300	commit: criação de contas por sala
+85f7ac38dd9d80ea0135623a8c48a2f077c975c6 70c1220422ddba4f2800728e477d22b36e76fc5d Marcelo <marcelorv@gmail.com> 1585872446 -0300	commit: total por mesa e por pessoa
+70c1220422ddba4f2800728e477d22b36e76fc5d 70c1220422ddba4f2800728e477d22b36e76fc5d Marcelo <marcelorv@gmail.com> 1585922766 -0300	Branch: renamed refs/heads/master to refs/heads/old-master
+70c1220422ddba4f2800728e477d22b36e76fc5d c5bceaf6fc92935e16f9debee3e9c7e84e459654 Marcelo <marcelorv@gmail.com> 1585922836 -0300	commit: sem swipr, somente com clique para deletar item da comanda
+c5bceaf6fc92935e16f9debee3e9c7e84e459654 1bb5442beeeb0029f2eba9ce6b314b78bc1789c0 Marcelo <marcelorv@gmail.com> 1585951790 -0300	commit: colocando os membros das mesas
+1bb5442beeeb0029f2eba9ce6b314b78bc1789c0 bb02b4f5aadaa50a3497b503290ac3526c351129 Marcelo <marcelorv@gmail.com> 1585953884 -0300	commit: membros quase ok
+bb02b4f5aadaa50a3497b503290ac3526c351129 9c316cb9e77cec2e50d7aaafca0342f51d957ac2 Marcelo <marcelorv@gmail.com> 1585996940 -0300	commit: tratamento de txtmembros
+9c316cb9e77cec2e50d7aaafca0342f51d957ac2 242bc60903cd3164eb5e9020e1743abe2e5bba29 Marcelo <marcelorv@gmail.com> 1586009111 -0300	commit: calculo dos membros quase ok, faltando tratar as exceções
+242bc60903cd3164eb5e9020e1743abe2e5bba29 0948ebcd734d38d1700ff38fd9dcc72a5ae3aacd Marcelo <marcelorv@gmail.com> 1586044034 -0300	commit: calculo dos membros rudimentar ok!
+0948ebcd734d38d1700ff38fd9dcc72a5ae3aacd 4c4f4656b340386c91f1f96e68d5ab45b5643190 Marcelo <marcelorv@gmail.com> 1586093615 -0300	commit: grupos: membros da mesa e já pagaram ok
+4c4f4656b340386c91f1f96e68d5ab45b5643190 5f10af021512055d277a6b21e9419ee9af60b279 Marcelo <marcelorv@gmail.com> 1586183508 -0300	commit: acerto no google maps
+5f10af021512055d277a6b21e9419ee9af60b279 ef0879c1cb609d6cda3ab280d4b0ce793190bc6a Marcelo <marcelorv@gmail.com> 1586209590 -0300	commit: itens a dividir em andamento. Os dados já estão sendo coletados do alertdialog
+ef0879c1cb609d6cda3ab280d4b0ce793190bc6a ad3ad607e375c31a1025a434af4ca2551be6ccf1 Marcelo <marcelorv@gmail.com> 1586212088 -0300	commit: itens a dividir em andamento. Os dados já estão sendo coletados do alertdialog e guardados no banco
+ad3ad607e375c31a1025a434af4ca2551be6ccf1 33c468a07ed9d05f171e7357994729a72a824661 Marcelo <marcelorv@gmail.com> 1586266309 -0300	commit: Tratar o alerta de pedido - ok
+33c468a07ed9d05f171e7357994729a72a824661 956fecd6dfc6a7570128f2714d8b35ff7007aa02 Marcelo <marcelorv@gmail.com> 1586269392 -0300	commit: Correção alertdialog
+956fecd6dfc6a7570128f2714d8b35ff7007aa02 4bbf4926a81617c3a19077787318e01a838309a5 Marcelo <marcelorv@gmail.com> 1586293796 -0300	commit: Chat ok!
+4bbf4926a81617c3a19077787318e01a838309a5 1c1792da8435fcf210df9b63938ebda8fed1de77 Marcelo <marcelorv@gmail.com> 1586299014 -0300	commit: acerto de bugs na função compartilhar
+1c1792da8435fcf210df9b63938ebda8fed1de77 24d2a24252f7e9a6a3106c2a3666142611015b94 Marcelo <marcelorv@gmail.com> 1586343429 -0300	commit: acerto de bug quando o cliente aperta ok, quando um item é negado a compartilhar
+24d2a24252f7e9a6a3106c2a3666142611015b94 7f6875a70a566232334c7028cb90127fac8ab68d Marcelo <marcelorv@gmail.com> 1586365196 -0300	commit: design telas chat e mesas
+7f6875a70a566232334c7028cb90127fac8ab68d 43b73b20acd41e97f551f126e373e6b199724b3f Marcelo <marcelorv@gmail.com> 1586390360 -0300	commit: autocomplete text drop down de mesas. Pqp!Show() ahahaha
+43b73b20acd41e97f551f126e373e6b199724b3f fdc67b2994c09ee1e735ef8ef5e96943f5d14f89 Marcelo <marcelorv@gmail.com> 1586467055 -0300	commit: começar o FCM notifications
+fdc67b2994c09ee1e735ef8ef5e96943f5d14f89 931e53f9acaf496eda00f6d4c314fc7079f4a654 Marcelo <marcelorv@gmail.com> 1586810732 -0300	commit: FCM ok
+931e53f9acaf496eda00f6d4c314fc7079f4a654 24f6cf872d2585632cb0829ef14120e804d44135 Marcelo <marcelorv@gmail.com> 1586813051 -0300	commit: Correção de bug na inserção do token
+24f6cf872d2585632cb0829ef14120e804d44135 62acf27c28bbc4612563404c38664deb93676e81 Marcelo <marcelorv@gmail.com> 1586822370 -0300	commit: Icon notification com interrogação
+62acf27c28bbc4612563404c38664deb93676e81 d73a20240fd7746dc55d467672613ab27a9e0632 Marcelo <marcelorv@gmail.com> 1586876781 -0300	commit: Agora só pode compartilhar um item por vez
+d73a20240fd7746dc55d467672613ab27a9e0632 397fc2e6bd06a7e9fb3b2c8a43d6d342ce631bbc Marcelo <marcelorv@gmail.com> 1586882380 -0300	commit: Acerto no item negado. Criado mais uma classe item a dividir negado
+397fc2e6bd06a7e9fb3b2c8a43d6d342ce631bbc 0021a5a0f3aa92fda8a613e3e16c1724e9be0458 Marcelo <marcelorv@gmail.com> 1586889435 -0300	commit: Acerto do AlertDialogs
+0021a5a0f3aa92fda8a613e3e16c1724e9be0458 5e375d1323cf0b021b62ad81ed5a148563e89160 Marcelo <marcelorv@gmail.com> 1587039106 -0300	commit: Mensagem de item recusado implementado com sucesso
+5e375d1323cf0b021b62ad81ed5a148563e89160 5e375d1323cf0b021b62ad81ed5a148563e89160 Marcelo <marcelorv@gmail.com> 1587043174 -0300	Branch: renamed refs/heads/old-master to refs/heads/master
+5e375d1323cf0b021b62ad81ed5a148563e89160 f7d1e0e35771b9f0089c1d8698cf03ce0b74a505 Marcelo <marcelorv@gmail.com> 1587132138 -0300	commit: TDD
+f7d1e0e35771b9f0089c1d8698cf03ce0b74a505 550d1326d3abe0fdf3d179217be60563333b6ab1 Marcelo <marcelorv@gmail.com> 1587854622 -0300	commit: novo latout 2
+550d1326d3abe0fdf3d179217be60563333b6ab1 c9f5aedd9038a5bc2b88ca70b7c37717210b80cf Marcelo <marcelorv@gmail.com> 1587854641 -0300	merge origin/v1: Merge made by the 'recursive' strategy.
+c9f5aedd9038a5bc2b88ca70b7c37717210b80cf 729eb13bd93726fb877318df29fd3e7a7f13b24c Marcelo <marcelorv@gmail.com> 1587855989 -0300	commit: novo latout 3
+729eb13bd93726fb877318df29fd3e7a7f13b24c b32d23228dcc6eda6b67ff4978172151cdb0bc86 Marcelo <marcelorv@gmail.com> 1587856257 -0300	commit: novo latout 3
