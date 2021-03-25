@@ -11,7 +11,7 @@
 
 #### Como foi desenvolvido?
 
-- Feito no Android Studio com a linguagem Kotlin, esse aplicativo conta também com o banco de dados NoSQL Firestore do Google Firebase. Funcionalidades como chat, envio de "push notifications" e 
+- Feito no Android Studio com a linguagem Kotlin, esse aplicativo conta também com o banco de dados NoSQL Firestore do Google Firebase. Funcionalidades como chat e envio de "push notifications" foram feitas na arquitetura "serverless" Firebase Functions em Node.JS.
 
 #### O que falta?
 
