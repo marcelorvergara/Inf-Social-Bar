@@ -3,7 +3,7 @@
 
 <img src="https://play-lh.googleusercontent.com/cQax_RA2ddePUSyQqwY-En5ZkRleUsx_UHApMTJsSrXqp6t-RcY0e_WS84efwid5bQg=w720-h310-rw">  <img src="https://play-lh.googleusercontent.com/YpUS0jjRBGq6zacEnHJhJ3w6IPFXmTUhGkm1lmEhpJFYEB8UdQ1Je9WbH-L7jmDZbQ=w720-h310-rw"> <img src="https://play-lh.googleusercontent.com/LaYrkiuqzS__mwTJaS-u0BOQlidhqqR2h_TtWghEaBsMWiAbqBYg-fN_xnSkIAejIO3X=w720-h310-rw">  <img src="https://play-lh.googleusercontent.com/2GlXiayqHPDAKUs23kRXDEOS5dCPKH9XsYlQJ9v28rirLPwOFaZXjoUS6AopKZr0rx8=w720-h310-rw">
 
-### Disponível na Play Store <a href="https://play.google.com/store/apps/details?id=project.inflabnet.mytest"></a>
+### <a href="https://play.google.com/store/apps/details?id=project.inflabnet.mytest"> Disponível na Play Store </a>
 
 #### O que esse app faz?
 
